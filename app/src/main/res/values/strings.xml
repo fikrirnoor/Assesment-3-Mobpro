@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Note App</string>
+
+    <string name="enter_todo_title">Enter Todo</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="delete_done">Delete done</string>
+    <string name="example">Example</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="floating_button">Floating Button</string>
+    <string name="msg_title_invalid">Input Task Tidak Boleh Kosong</string>
+    <string name="belum_ada_data">belum ada data</string>
+    <string name="tips_name">Tips Name</string>
+    <string name="description_tips">Description Tips</string>
+    <string name="koneksi_error">Koneksi error</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="tambah_todo">Tambah Todo</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update Tips</string>
+    <string name="notif_title">Ada Tips baru!</string>
+    <string name="notif_text">Cek sekarang yuk biar nggak penasaran..</string>
+</resources>

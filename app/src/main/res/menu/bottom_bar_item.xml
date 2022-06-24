@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/todoFragment"
+            android:title="Todo List"
+            android:icon="@drawable/ic_baseline_checklist"/>
+
+        <item
+            android:id="@+id/addTodoFragment"
+            android:title="Add Todo"
+            android:icon="@drawable/ic_baseline_note_add"/>
+
+        <item
+            android:id="@+id/tipsFragment"
+            android:title="Tips List"
+            android:icon="@drawable/ic_baseline_playlist_add_check_circle_24"/>
+</menu>
